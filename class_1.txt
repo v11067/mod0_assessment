@@ -1,0 +1,22 @@
+# 1 Checklist
+
+#Class:
+Dog
+
+#Attributes:
+name_of_dog (String)
+
+breed_of_dog (Array)
+
+age_of_dog (Integer)
+
+is_smart (Bloolean)
+
+#Methods:
+call_name (pick the name_of_dog by the owner)
+
+choose (pick the breed_of_dog by the owner)
+
+exercise (exercise based on the age_of_dog)
+
+obedient (extreme is_smart)
