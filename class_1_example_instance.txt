@@ -1,0 +1,22 @@
+#Example Instance Checklist
+
+#Class:
+Dog
+
+#Attributes:
+name_of_dog = "Jack"
+
+breed_of_dog = ["Akita", "Basset", "Golden Retriever", "English Cocker Spaniel"]
+
+cost_of_dog = 300
+
+is_smart = true
+
+#Methods:
+call_name: name_of_dog = "Jack"
+
+choose: breed_of_dog = ["Akita", "Basset", "Golden Retriever", "English Cocker Spaniel"]
+
+buy_dogs: cost_of_dog = 300
+
+obedient: is_smart = true
