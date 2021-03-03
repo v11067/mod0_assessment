@@ -1,0 +1,22 @@
+# 2 Checklist
+
+#Class:
+Refrigerator
+
+#Attributes:
+brand_of_frige (Array)
+
+price_of_frige (Hash)
+
+watt_of_frige (Float)
+
+is_enviromental_friendly (Bloolean)
+
+#Methods:
+choose (pick the brand_of_frige)
+
+list (tag the price_of_frige by employee)
+
+use_electricity (expense the watt_of_frige)
+
+protect_the_earth (save is_enviromental_friendly)
