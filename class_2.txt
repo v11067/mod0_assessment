@@ -4,19 +4,19 @@
 Refrigerator
 
 #Attributes:
-brand_of_frige (Array)
+brand_of_fridge (Array)
 
-price_of_frige (Hash)
+price_of_fridge (Hash)
 
-watt_of_frige (Float)
+watt_of_fridge (Float)
 
 is_enviromental_friendly (Bloolean)
 
 #Methods:
-choose (pick the brand_of_frige)
+choose (pick the brand_of_fridge)
 
-list (tag the price_of_frige by employee)
+list (tag the price_of_fridge by employee)
 
-use_electricity (expense the watt_of_frige)
+use_electricity (expense the watt_of_fridge)
 
 protect_the_earth (save is_enviromental_friendly)
