@@ -1,0 +1,22 @@
+# 2 Example Instance
+
+#Class:
+Refrigerator
+
+#Attributes:
+brand_of_fridge = ["GE", "LG", "Samsung", "Whirlpool"]
+
+price_of_fridge = {"GE" = 200, "LG" = 300, "Samsung" = 500, "Whirlpool" = 270}
+
+watt_of_fridge = 90.7
+
+is_enviromental_friendly = true
+
+#Methods:
+choose: brand_of_fridge = ["GE", "LG", "Samsung", "Whirlpool"]
+
+list: price_of_fridge = {"GE" = 200, "LG" = 300, "Samsung" = 500, "Whirlpool" = 270}
+
+use_electricity: watt_of_fridge = 90.7
+
+protect_the_earth: is_enviromental_friendly = true
