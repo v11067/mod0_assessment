@@ -1,4 +1,4 @@
-#Example Instance Checklist
+#Example Instance 
 
 #Class:
 Dog
